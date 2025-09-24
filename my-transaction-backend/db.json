@@ -19,7 +19,7 @@
       "kode": "K-01",
       "nama": "Sate Ayam",
       "harga": 16000,
-      "stok":10,
+      "stok": 3,
       "is_ready": true,
       "gambar": "/images/makanan/sate-ayam.jpg",
       "category": {
@@ -32,7 +32,7 @@
       "kode": "K-02",
       "nama": "Nasi Goreng",
       "harga": 14000,
-      "stok":10,
+      "stok": 7,
       "is_ready": true,
       "gambar": "/images/makanan/nasi-goreng.jpg",
       "category": {
@@ -45,7 +45,7 @@
       "kode": "K-03",
       "nama": "Nasi Rames",
       "harga": 12000,
-      "stok":10,
+      "stok": 3,
       "is_ready": true,
       "gambar": "/images/makanan/nasi-rames.jpg",
       "category": {
@@ -58,7 +58,7 @@
       "kode": "K-04",
       "nama": "Lontong Kari",
       "harga": 18000,
-      "stok":10,
+      "stok": 6,
       "is_ready": true,
       "gambar": "/images/makanan/lontong-kari.jpg",
       "category": {
@@ -71,7 +71,7 @@
       "kode": "K-05",
       "nama": "Mie Goreng",
       "harga": 13000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/makanan/mie-goreng.jpg",
       "category": {
@@ -84,7 +84,7 @@
       "kode": "K-06",
       "nama": "Bakso",
       "harga": 10000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/makanan/bakso.jpg",
       "category": {
@@ -97,7 +97,7 @@
       "kode": "K-07",
       "nama": "Mie Ayam Bakso",
       "harga": 14000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/makanan/mie-ayam-bakso.jpg",
       "category": {
@@ -110,7 +110,7 @@
       "kode": "K-08",
       "nama": "Pangsit 6",
       "harga": 5000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/cemilan/pangsit.jpg",
       "category": {
@@ -123,7 +123,7 @@
       "kode": "K-09",
       "nama": "Kentang Goreng",
       "harga": 5000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/cemilan/kentang.jpg",
       "category": {
@@ -136,7 +136,7 @@
       "kode": "K-10",
       "nama": "Burger",
       "harga": 15000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/cemilan/burger.jpg",
       "category": {
@@ -149,7 +149,7 @@
       "kode": "K-11",
       "nama": "Coffe Late",
       "harga": 15000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/minuman/coffe.jpg",
       "category": {
@@ -162,7 +162,7 @@
       "kode": "K-12",
       "nama": "Es Jeruk",
       "harga": 7000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/minuman/esjeruk.jpg",
       "category": {
@@ -175,7 +175,7 @@
       "kode": "K-13",
       "nama": "Es Teh",
       "harga": 5000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/minuman/esteh.jpg",
       "category": {
@@ -188,7 +188,7 @@
       "kode": "K-14",
       "nama": "Teh Hangat",
       "harga": 3000,
-      "stok":10,
+      "stok": 10,
       "is_ready": true,
       "gambar": "/images/minuman/teh.jpg",
       "category": {
@@ -259,6 +259,216 @@
       ],
       "total": 128000,
       "tanggal": "2025-09-24T04:52:34.317Z"
+    },
+    {
+      "id": "af25",
+      "cart": [
+        {
+          "id": "3",
+          "kode": "K-03",
+          "nama": "Nasi Rames",
+          "harga": 12000,
+          "stok": 10,
+          "is_ready": true,
+          "gambar": "/images/makanan/nasi-rames.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 8
+        }
+      ],
+      "total": 96000,
+      "tanggal": "2025-09-24T06:28:58.966Z"
+    },
+    {
+      "id": "4b67",
+      "cart": [
+        {
+          "id": "3",
+          "kode": "K-03",
+          "nama": "Nasi Rames",
+          "harga": 12000,
+          "stok": 10,
+          "is_ready": true,
+          "gambar": "/images/makanan/nasi-rames.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 8
+        }
+      ],
+      "total": 96000,
+      "tanggal": "2025-09-24T06:35:17.882Z"
+    },
+    {
+      "id": "4914",
+      "cart": [
+        {
+          "id": "2",
+          "kode": "K-02",
+          "nama": "Nasi Goreng",
+          "harga": 14000,
+          "stok": 10,
+          "is_ready": true,
+          "gambar": "/images/makanan/nasi-goreng.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 10
+        }
+      ],
+      "total": 140000,
+      "tanggal": "2025-09-24T06:43:19.058Z"
+    },
+    {
+      "id": "a42e",
+      "cart": [
+        {
+          "id": "3",
+          "kode": "K-03",
+          "nama": "Nasi Rames",
+          "harga": 12000,
+          "stok": 10,
+          "is_ready": true,
+          "gambar": "/images/makanan/nasi-rames.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 7
+        }
+      ],
+      "total": 84000,
+      "tanggal": "2025-09-24T06:48:50.862Z"
+    },
+    {
+      "id": "9982",
+      "tanggal": "2025-09-24T06:55:13.307Z",
+      "items": [
+        {
+          "id": "2",
+          "kode": "K-02",
+          "nama": "Nasi Goreng",
+          "harga": 14000,
+          "stok": 10,
+          "is_ready": true,
+          "gambar": "/images/makanan/nasi-goreng.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 10
+        }
+      ],
+      "total": 140000
+    },
+    {
+      "id": "d178",
+      "tanggal": "2025-09-24T06:56:47.224Z",
+      "items": [
+        {
+          "id": "4",
+          "kode": "K-04",
+          "nama": "Lontong Kari",
+          "harga": 18000,
+          "stok": 10,
+          "is_ready": true,
+          "gambar": "/images/makanan/lontong-kari.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 4
+        }
+      ],
+      "total": 72000
+    },
+    {
+      "id": "1da7",
+      "tanggal": "2025-09-24T06:56:48.271Z",
+      "items": [
+        {
+          "id": "4",
+          "kode": "K-04",
+          "nama": "Lontong Kari",
+          "harga": 18000,
+          "stok": 10,
+          "is_ready": true,
+          "gambar": "/images/makanan/lontong-kari.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 4
+        }
+      ],
+      "total": 72000
+    },
+    {
+      "id": "0bc7",
+      "tanggal": "2025-09-24T07:03:54.964Z",
+      "items": [
+        {
+          "id": "3",
+          "kode": "K-03",
+          "nama": "Nasi Rames",
+          "harga": 12000,
+          "stok": 10,
+          "is_ready": true,
+          "gambar": "/images/makanan/nasi-rames.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 1
+        }
+      ],
+      "total": 12000
+    },
+    {
+      "id": "dc50",
+      "tanggal": "2025-09-24T07:05:12.754Z",
+      "items": [
+        {
+          "id": "3",
+          "kode": "K-03",
+          "nama": "Nasi Rames",
+          "harga": 12000,
+          "stok": 9,
+          "is_ready": true,
+          "gambar": "/images/makanan/nasi-rames.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 5
+        }
+      ],
+      "total": 60000
+    },
+    {
+      "id": "cdcc",
+      "tanggal": "2025-09-24T08:30:33.570Z",
+      "items": [
+        {
+          "id": "1",
+          "kode": "K-01",
+          "nama": "Sate Ayam",
+          "harga": 16000,
+          "stok": 121,
+          "is_ready": true,
+          "gambar": "/images/makanan/sate-ayam.jpg",
+          "category": {
+            "id": 1,
+            "nama": "Makanan"
+          },
+          "qty": 8
+        }
+      ],
+      "total": 128000
     }
   ]
 }
